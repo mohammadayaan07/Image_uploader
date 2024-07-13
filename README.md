@@ -30,7 +30,7 @@ To get a local copy up and running, follow these simple steps:
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/Image_Uploader.git
+   git clone https://github.com/mohammadayaan07/Image_Uploader.git
    ```
 2. **Navigate to the project directory:**
    ```sh
@@ -53,5 +53,5 @@ To get a local copy up and running, follow these simple steps:
 ## 💬 Contact
 
 **Mohammad Ayaan Alam**
-- **LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/mohammad-ayaan-alam)
-- **GitHub:** [@your-username](https://github.com/mohammadayaan07/)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/mohammad-ayaan-alam/)
+- **GitHub:** [Github](https://github.com/mohammadayaan07/)
